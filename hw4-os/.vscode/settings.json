@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dirent.h": "c",
+        "stat.h": "c",
+        "unistd.h": "c",
+        "pthread.h": "c"
+    }
+}

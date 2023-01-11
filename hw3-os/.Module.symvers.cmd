@@ -1,0 +1,1 @@
+cmd_/media/psf/Home/Documents/Code/hw3-os/Module.symvers := sed 's/\.ko$$/\.o/' /media/psf/Home/Documents/Code/hw3-os/modules.order | scripts/mod/modpost -m -a  -o /media/psf/Home/Documents/Code/hw3-os/Module.symvers -e -i Module.symvers   -T -
